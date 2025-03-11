@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on </title>
+    <link>http://localhost:1313/experience/</link>
+    <description>Recent content in Experiences on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Engineer (Founding Team)</title>
+      <link>http://localhost:1313/experience/azufarms/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/azufarms/</guid>
+      <description>&lt;h3 id=&#34;building-e-commerce-backend-from-scratch&#34;&gt;Building E-commerce Backend from scratch&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An e-commerce platform in India empowering small vendors in tier-2 towns by providing a seamless online&#xA;marketplace.&lt;/li&gt;&#xA;&lt;li&gt;Built an e-commerce backend from scratch and helped Azufarms to launch their platform in just 5 months.&lt;/li&gt;&#xA;&lt;li&gt;Implemented critical backend modules including RBAC, Cart, Checkout, Payments, Order Management, CMS, Catalogue, and Delivery, enhancing overall system functionality and user experience.&lt;/li&gt;&#xA;&lt;li&gt;Link to live Project - &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://azufarms.com/&#34;&gt;https://azufarms.com/&lt;/a&gt;&lt;!-- raw HTML omitted --&gt; ( Live for Bodinayakanur town, kindly use Bodinayakanur location )&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Associate Software Engineer</title>
+      <link>http://localhost:1313/experience/tekion-ft/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/tekion-ft/</guid>
+      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tekion is a cloud-based platform revolutionizing the automotive retail experience with innovative solutions for&#xA;dealerships and OEMs&lt;/li&gt;&#xA;&lt;li&gt;Developed key features and enhancements for a microservice based Order Management System using Spring&#xA;Boot.&lt;/li&gt;&#xA;&lt;li&gt;Developed a reusable idempotency library with Spring AOP, improving resilience and productivity.&lt;/li&gt;&#xA;&lt;li&gt;Enhanced the Sales Order process by developing comprehensive Audit Logs, significantly improving traceability and ensuring compliance.&lt;/li&gt;&#xA;&lt;li&gt;Implemented outbox pattern using Kafka Connect and Debezium for data consistency.&lt;/li&gt;&#xA;&lt;li&gt;Integrated Slack notifications, reducing response time for failures by 30%&lt;/li&gt;&#xA;&lt;li&gt;Managed and contributed to 8 microservices and owned two internal libraries.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Intern</title>
+      <link>http://localhost:1313/experience/tekion-intern/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/tekion-intern/</guid>
+      <description>&lt;h3 id=&#34;ephimeral-environments--preview-environments&#34;&gt;Ephimeral Environments / Preview Environments&lt;/h3&gt;&#xA;&lt;p&gt;During my Tekion internship, I focused on backend development in Java and Kubernetes. Working alongside professionals, I gained hands-on experience and practical knowledge.&lt;/p&gt;&#xA;&lt;h4 id=&#34;responsibilities--achievements&#34;&gt;Responsibilities &amp;amp; Achievements:&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed Java Spring Boot backend, ensuring optimal performance.&lt;/li&gt;&#xA;&lt;li&gt;Utilized Rancher API for decoupling deployment from infrastructure providers.&lt;/li&gt;&#xA;&lt;li&gt;Designed a token-based user authentication system to enhance security.&lt;/li&gt;&#xA;&lt;li&gt;Implemented features like Environment Sharing and Templating.&lt;/li&gt;&#xA;&lt;li&gt;Contributed to a CLI native app for seamless operations from the terminal.&lt;/li&gt;&#xA;&lt;li&gt;Led daily standups, distributing tasks and providing assistance.&lt;/li&gt;&#xA;&lt;li&gt;Collaborated on UI flow design with the front-end team.&lt;/li&gt;&#xA;&lt;li&gt;Produced comprehensive documentation for the project.&lt;/li&gt;&#xA;&lt;li&gt;Supported team members in day-to-day tasks.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;skills-developed&#34;&gt;Skills Developed:&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Strengthened Spring Boot development skills.&lt;/li&gt;&#xA;&lt;li&gt;Applied containerization, Kubernetes, AWS, micro-frontends, and Rancher concepts.&lt;/li&gt;&#xA;&lt;li&gt;Improved communication, teamwork, problem-solving, and critical thinking abilities.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;key-takeaways&#34;&gt;Key Takeaways:&lt;/h4&gt;&#xA;&lt;p&gt;My Tekion internship provided a solid foundation in backend development and deployment. It exposed me to a corporate environment while contributing to innovative solutions in the automotive retail industry.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
